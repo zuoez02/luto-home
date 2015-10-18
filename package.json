@@ -1,0 +1,10 @@
+{
+  "name": "luto-home",
+  "version": "1.0.0",
+  "description": "Luto's private Website project",
+  "dependencies": {
+    "bower": "^1.6.3",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1"
+  }
+}
