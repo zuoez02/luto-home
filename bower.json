@@ -1,0 +1,21 @@
+{
+  "name": "luto-home",
+  "description": "Luto's private Website project",
+  "main": "index.html",
+  "authors": [
+    "Luto Yvan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zuoez02/luto-home",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
